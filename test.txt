@@ -5,3 +5,4 @@ add a fouth line
 add another line
 add six line
 add seven line
+welcom to git lecture
